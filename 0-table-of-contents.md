@@ -3,7 +3,7 @@
 ## Begining of work
 
 1. [Installation](installation.md)
-2. [RES API](rest-api.md)
+2. [REST API](rest-api.md)
 3. [JSON-RPC](json-rpc.md)
 4. [Multiple controllers in an application](multiple-conrtrollers.md)
 5. [Metrics and logging](metrics-logging.md)
